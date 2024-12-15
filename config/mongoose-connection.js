@@ -10,5 +10,5 @@ mongoose.connect("mongodb://127.0.0.1:27017/bag") //few times it will not workf
 //run the comand to check
 
 module.exports = mongoose.connection;
-
+//just cheking it
 //its called sapration of concern
