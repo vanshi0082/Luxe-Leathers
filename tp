@@ -1,0 +1,18 @@
+userModel :
+    fullname
+    email
+    password
+    cart
+    isadmin
+    oredr - array
+    contact - number
+    picture - db
+
+product 
+    img
+    name
+    discount
+    price
+    bgcolour
+    panle colour
+    text colour
